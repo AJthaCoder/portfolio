@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
+I have lived in San Diego my whole life
 
 <comment>
 Flags are made using Wikipedia images
@@ -94,4 +94,4 @@ Here is what I did at those places
 Everything for me, as for many others, revolves around family and faith.
 
 - I am indian and my family lineage has always been indian
-- I have a family of five and I'm a middle child, I have an older sister and a younger brother, and no pets
+- I have a family of five, and I'm a middle child. I have an older sister and a younger brother, and no pets
