@@ -95,3 +95,12 @@ Everything for me, as for many others, revolves around family and faith.
 
 - I am indian and my family lineage has always been indian
 - I have a family of five, and I'm a middle child. I have an older sister and a younger brother, and no pets
+
+<comment>
+Gallery of Pics of my family and friends
+</comment>
+<div class="image-gallery">
+  <img src="{{site.baseurl}}/images/about/Sister.JPG" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/AJ, Shiven, Harshu(grad).JPEG" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/Family.JPEG" alt="Image 3">
+</div>
