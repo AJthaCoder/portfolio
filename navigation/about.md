@@ -100,7 +100,7 @@ Everything for me, as for many others, revolves around family and faith.
 Gallery of Pics of my family and friends
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/Sister.JPG" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/AJ, Shiven, Harshu(grad).JPEG" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/Family.JPEG" alt="Image 3">
+  <img src="{{site.baseurl}}/Sister.JPG" alt="Image 1">
+  <img src="{{site.baseurl}}/AJ, Shiven, Harshu(grad).JPEG" alt="Image 2">
+  <img src="{{site.baseurl}}/Family.JPEG" alt="Image 3">
 </div>
